@@ -1,7 +1,14 @@
-### Joaco Esteban, Full-Stack Engineer
-Visit https://joacoesteban.com
+# Joaco Esteban, Full-Stack Engineer
 
-Vind: The Last Keyboard Shortcut Extension You'll Ever Need
-https://vind-works.io
+## HomePage
+https://joacoesteban.com
 
-📍 Currently @ Torino, Ita 🇮🇹
+## Highlighted Project
+
+### [Vind](https://vind-works.io)
+Make Every Website Keyboard-Friendly
+
+[![vind](https://framerusercontent.com/assets/0cRbqcHiQQhwI1dvF0GadSnmYiU.png)](https://vind-works.io)
+
+📍 Torino, Ita 🇮🇹
+
