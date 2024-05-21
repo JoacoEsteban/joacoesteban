@@ -18,5 +18,5 @@ Make Every Website Keyboard-Friendly
 
 [![vind](https://framerusercontent.com/assets/0cRbqcHiQQhwI1dvF0GadSnmYiU.png)](https://vind-works.io)
 
-📍 Torino, Ita 🇮🇹
-
+📍 From Buenos Aires, Arg 🇦🇷
+📍 Living in Torino, Ita 🇮🇹
