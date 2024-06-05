@@ -2,6 +2,7 @@
 
 ## Links
 [![Portfolio](https://img.shields.io/badge/portfolio-joacoesteban.com-a)](https://joacoesteban.com)
+[![CV](https://img.shields.io/badge/CV-Joaquin&nbsp;Esteban-a?color=91a)](https://github.com/joacoesteban/cv)
 [![Mail Badge](https://img.shields.io/badge/-dev@joacoesteban.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:dev@joacoesteban.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-joaquin--esteban-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-esteban/)
 [![Twitter Badge](https://img.shields.io/badge/-@joacoestebancom-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/joacoestebancom)
