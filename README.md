@@ -20,4 +20,3 @@ Make Every Website Keyboard-Friendly
 [![vind](https://framerusercontent.com/assets/0cRbqcHiQQhwI1dvF0GadSnmYiU.png)](https://vind-works.io)
 
 📍 From Buenos Aires, Arg 🇦🇷
-📍 Living in Torino, Ita 🇮🇹
